@@ -144,14 +144,13 @@
 
 #### Open Source 
 
-- Angular Material Snippets for Atom | [Atom Market Place](https://atom.io/packages/atom-angular-material-snippets?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXvukosGMSaK9Jahp8hzDKw%3D%3D) | [Github](https://github.com/smkamranqadri/atom-angular-material-snippets)
-- Material Design Lite Snippets for Visual Studio Code
-| [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-material-design-lite-snippets) | [Github](https://github.com/smkamranqadri/vscode-material-design-lite-snippets)
-- Bolt Language Support for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language) | [Github
-](https://github.com/smkamranqadri/vscode-bolt-language
-)
-(https://github.com/smkamranqadri/atom-angular-material-snippets)
-- Tabs in Cloud - Chrome Extension | [Github](tabs-in-cloud-chrome-extension)
+  Angular Material Snippets for Atom | [Atom Market Place](https://atom.io/packages/atom-angular-material-snippets?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXvukosGMSaK9Jahp8hzDKw%3D%3D) | [Github)(https://github.com/smkamranqadri/atom-angular-material-snippets)
+  
+  Material Design Lite Snippets for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-material-design-lite-snippets) | [Github](https://github.com/smkamranqadri/vscode-material-design-lite-snippets)
+  
+  Bolt Language Support for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language) | [Github](https://github.com/smkamranqadri/vscode-bolt-language)
+  
+  Tabs in Cloud - Chrome Extension | [Github](https://github.com/smkamranqadri/tabs-in-cloud-chrome-extension)
 
 
 #### Contact
