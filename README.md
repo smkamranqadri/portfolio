@@ -4,6 +4,20 @@
 
 ***
 
+## Startups
+
+### Stack Innovations
+
+> A services based startup providing web and mobile application development service using bleeding edge technologies.
+
+[stackinnovations.io](stackinnovations.io)
+
+#### devncode
+
+ > A local tech community based in Karachi, Pakistan. Solving problems community growth by bringing more Technical Speakers who haven't speak before but are professional in the field and becoming a bridge between multiple communities, software houses, startups, and universities.
+
+[devncode.tech](devncode.tech)
+
 ## Skills
 
 ||||||
@@ -128,6 +142,18 @@
     
     **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=com.algorithmous.referime)
 
+#### Open Source 
+
+- Angular Material Snippets for Atom | [Atom Market Place](https://atom.io/packages/atom-angular-material-snippets?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXvukosGMSaK9Jahp8hzDKw%3D%3D) | [Github](https://github.com/smkamranqadri/atom-angular-material-snippets)
+- Material Design Lite Snippets for Visual Studio Code
+| [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-material-design-lite-snippets) | [Github](https://github.com/smkamranqadri/vscode-material-design-lite-snippets)
+- Bolt Language Support for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language) | [Github
+](https://github.com/smkamranqadri/vscode-bolt-language
+)
+(https://github.com/smkamranqadri/atom-angular-material-snippets)
+- Tabs in Cloud - Chrome Extension | [Github](tabs-in-cloud-chrome-extension)
+
+
 #### Contact
 
 > [Github](https://github.com/smkamranqadri)
@@ -136,8 +162,11 @@
 
 > [Upwork](https://www.upwork.com/o/profiles/users/_~0110e972200c426be4/)
 
+> [Medium](https://medium.com/@muhammadkamranqadri)
+
+> Blog: blog.kamranqadri.me
+
+> Skype: smkamranqadri
+
 > [Email: contact@kamranqadri.me](mailto:contact@kamranqadri.me)
 
-> [Email: smkamranqadri@yahoo.com](mailto:smkamranqadri@yahoo.com)
-
-> Skype : smkamranqadri
