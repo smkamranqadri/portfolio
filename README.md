@@ -25,7 +25,7 @@
 |**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|**Typescript**|
 |**Jquery**|**Lodash**|**Rxjs**|**Redux**|**ngRx**|
 |**AngularFire**|**AngularFire2**|
-|**Angularjs**|**Angular**|**React**|
+|**Angularjs**|**Angular**|**React**|**Vue**|
 |**Ionic1**|**Ionic2/3**|**React Native**|
 |**Nodejs**|**Expressjs**|**Mongoosejs**|**Sequelizejs**|**Firebase Admin**|
 |**Amazon Web Services (EC2, EB)**|**AWS Lambda Functions via Serverless Framework**|**Amazon S3 Storage**|
@@ -94,6 +94,12 @@
 
     **Link:** [http://manager.dartfrog.com.au](http://admin.dartfrog.com.au)
 
+11. **Section3300**
+
+    **Technologies:** React, Redux, Redux Obserable, Rxjs, Nodejs (AWS EC2), MySql (AWS RDS)
+
+    **Link:** [http://section3300.com](http://section3300.com)
+
 #### Hybrid Apps
 
 1. **dartFrog Cloud**
@@ -134,13 +140,21 @@
     
     **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=cloud.ucard.basic)
 
-    **Appstore:** [itunes.appgle.com](https://itunes.apple.com/us/app/ucard-cloud/id1216466125?ls=1&mt=8)
+    **Appstore:** [itunes.apple.com](https://itunes.apple.com/us/app/ucard-cloud/id1216466125?ls=1&mt=8)
 
 5. **Referime**
 
     **Technologies:** Ionic 2, Rxjs, AngularFire2, Firebase, Firebase Functions, Firebase Cloud Notifications
     
     **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=com.algorithmous.referime)
+
+5. **Waitforme**
+
+    **Technologies:** Ionic2, Rxjs, Firebase, AngularFire2, GeoFire, Firebase Cloud Functions, Firebase Cloud Notifications
+    
+    **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=com.happio.waitforme.rider&hl=en)
+
+    **Appstore:** [itunes.apple.com](https://itunes.apple.com/th/app/waitforme/id1241266805?mt=8)
 
 #### Open Source 
 
@@ -162,6 +176,10 @@
 > [Upwork](https://www.upwork.com/o/profiles/users/_~0110e972200c426be4/)
 
 > [Medium](https://medium.com/@muhammadkamranqadri)
+
+> [Linkedin](https://www.linkedin.com/in/smkamranqadri/)
+
+> [Facebook](facebook.com/devkamran)
 
 > Blog: blog.kamranqadri.me
 
