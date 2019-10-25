@@ -152,9 +152,9 @@ $ `npx kamranqadri`
   
   Bolt Language Support for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language) | [Github](https://github.com/smkamranqadri/vscode-bolt-language) | ![](https://vsmarketplacebadge.apphb.com/installs-short/smkamranqadri.vscode-bolt-language.svg)
 
-#### *Contributor*
-
   First Contributions Project for starting Open Source | [First Contributions](https://github.com/devncode/first-contributions) | [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/devncode/first-contributions)](https://github.com/devncode/first-contributions/pulls)
+
+#### *Contributor*
 
   Typing Practice Application | [Typist](https://typistapp.netlify.com/) | [Github](https://github.com/vimark1/typist)
 
