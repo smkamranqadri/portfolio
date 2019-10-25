@@ -154,11 +154,11 @@ $ `npx kamranqadri`
 
 #### *Contributor*
 
-  First Contributions Project for starting Open Source | [First Contributions](https://github.com/devncode/first-contributions)
+  First Contributions Project for starting Open Source | [First Contributions](https://github.com/devncode/first-contributions) | [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/devncode/first-contributions)](https://github.com/devncode/first-contributions/pulls)
 
-  Typing Practice Application | [Typist](https://typistapp.netlify.com/)
+  Typing Practice Application | [Typist](https://typistapp.netlify.com/) | [Github](https://github.com/vimark1/typist)
 
-  Self Hosted Communication Tool | [Simple Messengar](https://github.com/lucasinocente/simple-messenger)
+  Self Hosted Communication Tool | [Simple Messengar](https://simple-messenger-19.web.app) | [Github](https://github.com/lucasinocente/simple-messenger)
 
 ## Contact
 
