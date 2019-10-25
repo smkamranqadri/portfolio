@@ -1,5 +1,7 @@
 # Muhammad Kamran
 
+$ `npx kamranqadri`
+
 > I am Nomad Software Engineer, with the experience of 8+ years in developing desktop, web and mobile applications. Assisted many startups from the US, Australia, Argentina, Estonia and Pakistan as the technical lead. Actively supporting and bringing together the developer community of Pakistan through my venture ['devncode'](http://devncode.tech) for the past 2 years.
 
 ***
@@ -46,11 +48,17 @@
 
     *Link:* [https://skillific.com](https://skillific.com)
 
-0. **Votemo**
+0. **Municipio de Tigre**
 
-    *Technologies:* React, Redux, Redux-Obervable, Rxjs
+    *Technologies:* 
+    - React Native, Firebase, iOS, Android
+    - React, Redux, Material UI, Nodejs, Express, Mongoose, Cloudinary, Firebase
 
-    *Link:* [https://www.votemo.eu](https://www.votemo.eu)
+    *Link:* [itunes.apple.com](https://itunes.apple.com/AR/app/id1439267163?l=es)
+
+0. **Museo de arte Tigre**
+
+    *Technologies:* React Native, Firebase iOS, Android
 
 0. **Surewire**
 
@@ -97,11 +105,12 @@
 
     *Links:* [http://dartfrog.cloud/](http://dartfrog.cloud/)
 
-    - Cloud [ [play.google.com](https://play.google.com/store/apps/details?id=cloud.dartfrog.basic) | [itunes.appgle.com](https://itunes.apple.com/us/app/dartfrog-cloud/id1201223764?ls=1&mt=8) ]
-    - Plus [ [play.google.com](https://play.google.com/store/apps/details?id=cloud.dartfrog.business) | [itunes.appgle.com](https://itunes.apple.com/th/app/dartfrog-cloud-business-soho/id1244686179?mt=8) ]
+    - Cloud [ [play.google.com](https://play.google.com/store/apps/details?id=cloud.dartfrog.basic) || [itunes.appgle.com](https://itunes.apple.com/us/app/dartfrog-cloud/id1201223764?ls=1&mt=8) ]
+    - Plus [ [play.google.com](https://play.google.com/store/apps/details?id=cloud.dartfrog.business) || [itunes.appgle.com](https://itunes.apple.com/th/app/dartfrog-cloud-business-soho/id1244686179?mt=8) ]
     - Admin Dashboard
     - Manager Dashboard
     - Gurdian Dashboard
+
 
 0. **4Stay**
 
@@ -135,7 +144,7 @@
 
 ## Open Source 
 
-#### Maintainer
+#### *Maintainer*
 
   Angular Material Snippets for Atom | [Atom Market Place](https://atom.io/packages/atom-angular-material-snippets?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXvukosGMSaK9Jahp8hzDKw%3D%3D) | [Github](https://github.com/smkamranqadri/atom-angular-material-snippets) | [![apm install atom-angular-material-snippets](https://apm-badges.herokuapp.com/apm/atom-angular-material-snippets.svg)](https://atom.io/packages/atom-angular-material-snippets)
   
@@ -143,6 +152,9 @@
   
   Bolt Language Support for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language) | [Github](https://github.com/smkamranqadri/vscode-bolt-language) | ![](https://vsmarketplacebadge.apphb.com/installs-short/smkamranqadri.vscode-bolt-language.svg)
 
+#### *Controbutor*
+
+  Typing Practice Application | [Typist](https://typistapp.netlify.com/)
 
 ## Contact
 
