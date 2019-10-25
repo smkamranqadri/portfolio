@@ -152,7 +152,7 @@ $ `npx kamranqadri`
   
   Bolt Language Support for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language) | [Github](https://github.com/smkamranqadri/vscode-bolt-language) | ![](https://vsmarketplacebadge.apphb.com/installs-short/smkamranqadri.vscode-bolt-language.svg)
 
-#### *Controbutor*
+#### *Contributor*
 
   First Contributions Project for starting Open Source | [First Contributions](https://github.com/devncode/first-contributions)
 
