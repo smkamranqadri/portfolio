@@ -154,7 +154,11 @@ $ `npx kamranqadri`
 
 #### *Controbutor*
 
+  First Contributions Project for starting Open Source | [First Contributions](https://github.com/devncode/first-contributions)
+
   Typing Practice Application | [Typist](https://typistapp.netlify.com/)
+
+  Self Hosted Communication Tool | [Simple Messengar](https://github.com/lucasinocente/simple-messenger)
 
 ## Contact
 
