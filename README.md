@@ -70,7 +70,7 @@ $ `npx kamranqadri`
 
     *Technologies:* React, Redux, Redux Obserable, Rxjs, Nodejs (AWS EC2), MySql (AWS RDS)
 
-    *Link:* [http://section3300.com](http://section3300.com)
+    *Link:* [http://section3300.com](https://section3300.herokuapp.com/)
 
 0. **Ucard**
 
